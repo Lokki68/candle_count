@@ -29,7 +29,7 @@ const CandleForm = () => {
       >
         <div className='flex gap-2 flex-wrap'>
           <label htmlFor="name">
-            Enter your age :
+            Enter your name :
           </label >
           <input
             onChange={e => {
